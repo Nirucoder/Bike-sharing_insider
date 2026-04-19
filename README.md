@@ -1,4 +1,5 @@
-![Data Pipeline Diagram](WhatsApp%20Image%202026-04-19%20at%2012.28.26%20PM.jpeg)
+![Data Pipeline Diagram]
+(WhatsApp%20Image%202026-04-19%20at%2012.28.26%20PM.jpeg)
 
 A. Exploratory Data Analysis:
 Temporal Rhythms: Our analysis identified a dual-mode behavior in demand. On weekdays, demand is driven by commuters, with massive spikes at 8:00 AM and 5:00 PM. On weekends, demand follows a smooth "bell curve" peaking in the early afternoon, driven by leisure activities.
